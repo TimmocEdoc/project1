@@ -1,0 +1,18 @@
+.align-center
+{
+    text-align: center;
+}
+.carousel-header
+{
+    font-size: 32px;
+}
+.carousel-margin
+{
+    margin-top: 55px;
+}
+.bg-shape
+{
+    background: #7f5a57 fixed center;
+    height: 400px;
+    width: 100%;
+}
