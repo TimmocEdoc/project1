@@ -1,0 +1,40 @@
+.align-center
+{
+    text-align: center;
+}
+@media only screen and (max-width: 500px) {
+    .carousel-header
+    {
+
+    }
+    .caro-margin
+    {
+
+    }
+}
+.carousel-header
+{
+    font-size: 32px;
+}
+.caro-margin
+{
+    margin-top: 55px;
+}
+.bg-shape1
+{
+    background:#7f5a57 fixed center no-repeat;
+    height: 40vh;
+    width: 100%;
+}
+.bg-shape2
+{
+    background: #7f5a67 fixed center;
+    height: 40vh;
+    width: 100%;
+}
+.bg-shape3
+{
+    background: #7f5a77 fixed center;
+    height: 40vh;
+    width: 100%;
+}
